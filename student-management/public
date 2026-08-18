@@ -1,0 +1,21 @@
+student-management
+│
+├── public
+│
+├── src
+│   ├── components
+│   │   ├── Navbar.jsx
+│   │   └── StudentCard.jsx
+│   │
+│   ├── pages
+│   │   ├── Home.jsx
+│   │   ├── AddStudent.jsx
+│   │   ├── Students.jsx
+│   │   └── StudentDetails.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+└── vite.config.js
